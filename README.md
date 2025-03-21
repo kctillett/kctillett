@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hello World!
+
+This is KC Tillett's videographer portfolio and I am slowly learning how to build this website.
+
+I hate it.
 
 <!--
 **kctillett/kctillett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
